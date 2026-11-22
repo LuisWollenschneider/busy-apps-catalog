@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/LuisWollenschneider/busybar-tminus.git
-    commit_sha: 08267f659e57b35a434623e99e5499ac22030489  # v0.1.0
+    commit_sha: 2329569b5833f677421915ba03a7a5d1f4051e5d  # v0.1.1
 category: clocks
 short_description: "Countdowns to a date, or to every year, month, weekday, day or hour; made on the bar and switched with the wheel."
 description: "@CATALOG.md"
